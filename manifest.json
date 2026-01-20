@@ -1,0 +1,17 @@
+
+{
+  "short_name": "KidsFun",
+  "name": "Kids Fun 2026 - مرح الأطفال",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3048/3048122.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0088cc",
+  "background_color": "#f8fafc"
+}
